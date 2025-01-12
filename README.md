@@ -1,2 +1,2 @@
 # new_experiment
-score 101
+score 10000
